@@ -1,10 +1,18 @@
 # Legacy code for the manager 
+These are side notes about Christophe Thibault "Legacy - Isolated test" blog posts that are bot yet published on OCTO blog.
 
-The aim of these blog post is to give to a manager the key points about legacy:
+The aim of these posts is to give to a manager the key points about legacy:
 - what is it ?
 - why/how does it work ?
 - when/why would it would stop working ?
 - how to get out of it ?
+
+The key point is that isolated test goodness is hidden to the manager.
+Without isolated tests, everything may appear to work as usual.
+
+These blogs post are aiming to show: 
+- the power of isolated tests;
+- the limits of no test/or only integrated tests.
 
 ## What is legacy code ?
 Legacy mean non-testable code.
